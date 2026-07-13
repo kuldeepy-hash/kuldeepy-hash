@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kuldeep Yadav</h1>
 
-<!--
-**kuldeepy-hash/kuldeepy-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Data Analyst | Excel | SQL | Power BI | Python
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 B.Tech CSE (Data Science) Student <br>
+📊 Passionate about Data Analytics & Business Intelligence <br>
+🚀 Open to Data Analyst Internship Opportunities
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science (Data Science)
+- 📍 Vadodara, Gujarat, India
+- 📊 Building real-world Data Analytics projects
+- 🌱 Currently learning Advanced Power BI, SQL & Python
+- 🎯 Goal: Become a Data Analyst
+
+---
+
+## 🛠 Tech Stack
+
+✔ Excel
+
+✔ SQL
+
+✔ Power BI
+
+✔ Python
+
+✔ Pandas
+
+✔ NumPy
+
+✔ Matplotlib
+
+✔ Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Sales Performance Dashboard
+Interactive Power BI dashboard for analyzing sales performance and KPIs.
+
+### 🎓 At-Risk Student Detection System
+Flask-based application to identify at-risk students and monitor academic performance.
+
+---
+
+## 📫 Connect With Me
+
+📧 ky6102544@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/kuldeep-mansharam-yadav/
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
