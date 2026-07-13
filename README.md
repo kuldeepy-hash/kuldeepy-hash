@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kuldeepy-hash/kuldeepy-hash/main/banner.png" width="100%" alt="Kuldeep Yadav Banner"/>
+  <img src="https://raw.githubusercontent.com/kuldeepy-hash/kuldeepy-hash/main/banner.png" width="100%" alt="Kuldeep Yadav banner.png"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kuldeep Yadav</h1>
