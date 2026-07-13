@@ -52,12 +52,6 @@ Flask-based application to identify at-risk students and monitor academic perfor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuldeepy-hash&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepy-hash&layout=compact&theme=tokyonight" height="180"/>
-</p>
 
 ---
 
