@@ -45,11 +45,12 @@ Interactive Power BI dashboard for analyzing sales performance and KPIs.
 
 ### 🎓 At-Risk Student Detection System
 Flask-based application to identify at-risk students and monitor academic performance.
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kuldeepy-hash&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepy-hash&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kuldeepy-hash&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepy-hash&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ## 🔥 GitHub Streak
