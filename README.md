@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kuldeepy-hash/kuldeepy-hash/main/banner.png" width="100%" alt="Kuldeep Yadav Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kuldeep Yadav</h1>
 
 <h3 align="center">
@@ -46,6 +50,8 @@ Interactive Power BI dashboard for analyzing sales performance and KPIs.
 ### 🎓 At-Risk Student Detection System
 Flask-based application to identify at-risk students and monitor academic performance.
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -53,21 +59,27 @@ Flask-based application to identify at-risk students and monitor academic perfor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepy-hash&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kuldeepy-hash&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kuldeepy-hash&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-
 ## 📫 Connect With Me
 
-📧 ky6102544@gmail.com
+<p align="center">
+  <a href="mailto:ky6102544@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-💼 LinkedIn:
-https://www.linkedin.com/in/kuldeep-mansharam-yadav/
+  <a href="https://www.linkedin.com/in/kuldeep-mansharam-yadav/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
